@@ -1,0 +1,11 @@
+Bloor Collegiate Institute
+C,CHE05,Chemistry Level 5,Chemistry,20.0,40.0,4.0
+C,CHE01,Chemistry Level 1,Chemistry,20.0,40.0,4.0
+C,CHE04,Chemistry Level 4,Chemistry,20.0,40.0,4.0
+C,RED01,Reading Level 1,English,20.0,40.0,2.0
+C,CHE03,Chemistry Level 3,Chemistry,20.0,40.0,4.0
+C,CHE02,Chemistry Level 2,Chemistry,20.0,40.0,4.0
+T,00010,Emma,Stern,4168884545,English Math,@@RED01@@RED01
+T,01010,Joseph,Whitney,4167770909,English Chemistry,@@@@
+S,00001,James,Verner,6479990000,@@@@RED01
+S,00111,Emily,Z,1234567890,@@RED01@@RED01
