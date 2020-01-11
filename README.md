@@ -1,2 +1,2 @@
-# UW2024_Code
+# Registration
  School registration program: applies a text-based user interface with error handling. User can add and delete people (teachers and students) and course objects, or register a student for a course. Program uses searching and sorting algorithms on arrays of people and courses , and uses file input / output to save class details. It can display current registration status, calculate weekly profit, and substitute teachers for a course.
