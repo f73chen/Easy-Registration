@@ -1,0 +1,13 @@
+school name as a string in the first line
+
+Course:
+String type, String courseCode, String courseName, String subject, double profitPerStudent, double costPerTeacher, double numHoursPerDay
+Ex. C,RED01, Reading Level 1, English, 5, 20.0, 40.0, 2.0
+
+Student:
+String type, String ID, String firstName, String lastName, String phoneNum, String class1 String class2 String class3 String class4 String class5
+Ex. S,00001, James, Verner, 6479990000,@@@RED01@@RED01
+
+Teacher:
+String type, String ID, String firstName, String lastName, String phoneNum, String subjects, String class1 String class2 String class3 String class4 String class5
+Ex. T,00010, Emma, Stern, 4168884545, English Math,@@@RED01@@RED01
